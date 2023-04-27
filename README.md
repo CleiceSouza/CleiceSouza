@@ -14,7 +14,8 @@
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ally-Java" height="30" width="70" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img align="center" alt="Ally-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Ally-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  </div>
  
  ##
@@ -25,8 +26,9 @@
  
  ##
  <h4> 📈 Github: <br></h4>
-<a href="https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice github stats" /></a> 
-<a href="https://https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
+<a href="https://github.com/CleiceSouza/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice GitHub Stats" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
+
 
   
 
