@@ -6,7 +6,7 @@
 ##
 <h4>**Falando de mim**</h4>
 
-- 🔭 Atualmente trabalho com testes de software E2e utilizando o framework do Selenium 
+- 🔭 Atualmente trabalho com testes de software E2E utilizando o framework do Selenium 
 
 - ❤️ Eu amo escrever testes automatizados utilizando a linguagem Java 
 
