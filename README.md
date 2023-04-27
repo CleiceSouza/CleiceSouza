@@ -6,11 +6,11 @@
 ##
 <h4>**Falando de mim**</h4>
 
-- ❤️ Eu amo escrever testes automatizados E2E usando o framework Selenium 
+- 🔭 Atualmente trabalho com testes de software E2e utilizando o framework do Selenium 
+
+- ❤️ Eu amo escrever testes automatizados utilizando a linguagem Java 
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web através da linguagem Java
-
-- 🔭 Atualmente trabalho com a linguagem Java
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -25,8 +25,8 @@
  
  ##
  <h4> 📈 Github: <br></h4>
-<a href="https://github.com/CleiceSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice github stats" /></a> 
-<a href="https://https://github.com/CleiceSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
+<a href="https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice github stats" /></a> 
+<a href="https://https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
 
   
 
