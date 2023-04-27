@@ -25,11 +25,8 @@
  
  ##
  <h4> 📈 Github: <br></h4>
- <div>
-  <a href="[https://github.com/CleiceSouza](https://github.com/CleiceSouza)"> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&langs_count=16&theme=monokai"/>
-</div>
+<a href="https://github.com/CleiceSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice github stats" /></a> 
+<a href="https://https://github.com/CleiceSouza/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
 
   
 
