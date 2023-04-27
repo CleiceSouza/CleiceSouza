@@ -4,12 +4,6 @@
 <h6> ✨  #testesdesoftware, #desenvolvimentoweb, #computação, e #tecnologia ✨ </h6>
 
 ##
-<h4> 💻🌎 Redes Sociais: <br></h4>
-<br />
-
-<a href="https://www.linkedin.com/in/cleicetnsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-##
 <h4>**Falando de mim**</h4>
 
 - ❤️ Eu amo escrever testes automatizados E2E usando o framework Selenium 
@@ -24,11 +18,17 @@
  </div>
  
  ##
+<h4> 💻🌎 Redes Sociais: <br></h4>
+<br />
+
+<a href="https://www.linkedin.com/in/cleicetnsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ ##
  <h4> 📈 Github: <br></h4>
  <div>
   <a href="[https://github.com/CleiceSouza](https://github.com/CleiceSouza)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&langs_count=16&theme=monokai"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
   
