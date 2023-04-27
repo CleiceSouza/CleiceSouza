@@ -27,8 +27,8 @@
  <h4> 📈 Github: <br></h4>
  <div>
   <a href="[https://github.com/CleiceSouza](https://github.com/CleiceSouza)"> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&langs_count=16&theme=monokai"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
   
