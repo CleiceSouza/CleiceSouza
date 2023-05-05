@@ -26,7 +26,7 @@
  
  ##
  <h4> 📈 Github: <br></h4>
-<a href="https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=false&theme=monokai&hide_border=true" alt="Cleice GitHub Stats" /></a> 
+<a href="https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CleiceSouza&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="Cleice GitHub Stats" /></a> 
 <a href="https://github.com/CleiceSouza/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiceSouza&layout=compact&theme=monokai&hide_border=true" /></a>
 
 
