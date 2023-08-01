@@ -12,12 +12,12 @@
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web através da linguagem Java
 
-- 📲 Para front-end utilizo HTML, CSS 5 e JavaScript (JS)
+- 📲 Para front-end utilizo HTML 5, CSS 3 e JavaScript (JS)
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ally-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Ally-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Ally-Java" height="50" width="50" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" />
  </div>
  
  ##
