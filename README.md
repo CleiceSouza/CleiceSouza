@@ -8,9 +8,11 @@
 
 - 🔭 Atualmente trabalho com testes de software E2E utilizando o framework do Selenium 
 
-- ❤️ Eu amo escrever testes automatizados utilizando a linguagem Java 
+- ❤️ Eu amo escrever testes automatizados (E2E e unitário com JUnit 5) utilizando a linguagem Java 
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web através da linguagem Java
+
+- 📲 Para front-end utilizo HTML, CSS 5 e JavaScript (JS)
 
 <div align="left" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
